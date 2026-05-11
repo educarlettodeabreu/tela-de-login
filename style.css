@@ -89,6 +89,7 @@ label {
     border-radius: 8px;
     padding-left: 10px;
     border: 2px solid #5f2c82;
+    min-width: none;
     
     
 } 
