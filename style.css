@@ -83,7 +83,7 @@ label {
 }
 
 .campo input {
-    flex: 1 1 auto;
+    flex: 1 1 100%;
     height: 40px;
     background-color: #94cfcd;
     border-radius: 8px;
