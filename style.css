@@ -85,10 +85,10 @@ label {
 .campo input {
     flex: 1 0 auto;
     height: 40px;
-    border: 2px solid #5f2c82;
     background-color: #94cfcd;
     border-radius: 8px;
     padding-left: 10px;
+    border: 2px solid #5f2c82;
     
     
 } 
